@@ -1,0 +1,9 @@
+export 'package:diversos_componentes/screens/inputs_screen.dart';
+export 'package:diversos_componentes/screens/animated_screen.dart';
+export 'package:diversos_componentes/screens/avatar_screen.dart';
+export 'package:diversos_componentes/screens/home_screen.dart';
+export 'package:diversos_componentes/screens/card_screen.dart';
+export 'package:diversos_componentes/screens/alert_screen.dart';
+export 'package:diversos_componentes/screens/listview1_screen.dart';
+export 'package:diversos_componentes/screens/listview2_screen.dart';
+export 'package:flutter/material.dart';
